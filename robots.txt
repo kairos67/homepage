@@ -1,0 +1,2 @@
+User-agent: *Allow:/
+Sitemap: https://kairosys.netlify.app/sitemap.xml
